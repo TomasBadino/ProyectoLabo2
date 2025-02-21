@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1740158838 source:e:\xcodeblocks\espacio trabajador\lab2\lab2_badino_tomas\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<cstdlib>
+	<cstring>
+	"fecha.h"
+	"menus.h"
+	"Jugadores.h"
+
+1740154919 e:\xcodeblocks\espacio trabajador\lab2\lab2_badino_tomas\menus.h
+
+1740159775 e:\xcodeblocks\espacio trabajador\lab2\lab2_badino_tomas\fecha.h
+
+1740159775 e:\xcodeblocks\espacio trabajador\lab2\lab2_badino_tomas\jugadores.h
+
